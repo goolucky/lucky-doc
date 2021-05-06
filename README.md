@@ -15,10 +15,10 @@ https://github.com/goolucky/lucky-doc/raw/main/files/lucky_linux.zip
 
 ## 获取Api key和 Sercret key
 
-如下图
-![](https://raw.githubusercontent.com/goolucky/lucky-doc/main/files/1.jpg)
-![](https://raw.githubusercontent.com/goolucky/lucky-doc/main/files/2.jpg)
-![](https://raw.githubusercontent.com/goolucky/lucky-doc/main/files/3.jpg)
+从币安APP获取
+
+![](https://raw.githubusercontent.com/goolucky/lucky-doc/main/files/01.png)
+
 
 ## 运行
 运行程序前，需要修改配置文件。解压上面下载的文件后，修改文件`lucky.yaml`（注意yaml文件的格式，每个冒号后面有空格）
